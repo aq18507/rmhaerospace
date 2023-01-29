@@ -1,13 +1,11 @@
 # Publications
 
-On this page all my publications can be found. Since my research work is funded my `EPSRC <https://www.ukri.org/councils/epsrc/>` which means that all work is in an open access format. 
+On this page all my publications can be found. Since my research work is funded my `EPSRC <https://www.ukri.org/councils/epsrc/>`_ which means that all work is in an open access format. 
 
 ```{toctree}
 :hidden:
 
-workflow
-internals
-design
+2022
 ```
 
 [Workflow](./workflow)

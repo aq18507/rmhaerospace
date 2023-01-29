@@ -104,9 +104,9 @@ html_extra_path = ['../extra/']
 # documentation.
 #
 html_theme_options = {
-    'logo_only': True,
+    'logo_only': False,
     'display_version': True,
-    "navigation_with_keys": False,
+    "sidebar_hide_name": False,
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,

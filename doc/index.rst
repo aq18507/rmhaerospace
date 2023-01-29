@@ -18,9 +18,9 @@ Welcome to the GATORcell documentation. This website is here to aid you through 
    Depreciated_Scripts
 
  
-.. Indices and tables
-.. ------------------
+Indices and tables
+------------------
 
-.. * :ref:`genindex`
-.. * :ref:`modindex`
-.. * :ref:`search`
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`

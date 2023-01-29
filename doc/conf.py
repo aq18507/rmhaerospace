@@ -5,18 +5,26 @@
 
 import os
 import sys
+import datetime
 from typing import Any, Dict
 
 # add the demo python code to the path, so that it can be used to demonstrate
 # source links
-sys.path.append(os.path.abspath("./kitchen-sink/demo_py"))
+# sys.path.append(os.path.abspath("./kitchen-sink/demo_py"))
+sys.path.insert(0, os.path.abspath('../source'))
+
+# --Todays date for release -----------------------------------------------------
+today = datetime.date.today()
+year = today.year
+month = today.month
+day = today.day
 
 # -- Project information -----------------------------------------------------
 #
 
-project = "furo"
-copyright = "2020, Pradyun Gedam"
-author = "Pradyun Gedam"
+project = "RHM Aerospace"
+copyright = f'{year}, RMH Aerospace'
+author = 'Rafael Heeb'
 
 # -- General configuration ---------------------------------------------------
 #
@@ -74,7 +82,7 @@ myst_heading_anchors = 3
 html_theme = "furo"
 html_title = "Furo"
 language = "en"
-
+html_extra_path = ['../extra/']
 html_static_path = ["_static"]
 html_css_files = ["pied-piper-admonition.css"]
 

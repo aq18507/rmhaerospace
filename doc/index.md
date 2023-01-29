@@ -14,6 +14,13 @@ Welcome to the website of RMH Aerospace. This site is all about my research and 
 :end-before: <!-- end elevator-pitch -->
 ```
 
+```{toctree}
+:caption: Research
+:hidden:
+
+publications/index
+```
+
 <!-- ```{toctree}
 :hidden:
 

@@ -106,6 +106,7 @@ html_extra_path = ['../extra/']
 html_theme_options = {
     'logo_only': True,
     'display_version': True,
+    "navigation_with_keys": False,
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,

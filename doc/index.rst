@@ -1,8 +1,5 @@
----
-hide-toc: true
----
-
-# GATORcell Documentation
+GATORcell Documentation
+===
 
 Welcome to the GATORcell documentation. This website is here to aid you through the GATORcell Matlab wrapper. This essentially consists of a series of scripts designed to create ABAQUS input files for GATOR panels, using GMSH as a 3D CAD design and meshing algorythm.
 
@@ -21,9 +18,9 @@ Welcome to the GATORcell documentation. This website is here to aid you through 
    Depreciated_Scripts
 
  
-Indices and tables
-------------------
+.. Indices and tables
+.. ------------------
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. * :ref:`genindex`
+.. * :ref:`modindex`
+.. * :ref:`search`

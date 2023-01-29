@@ -33,7 +33,7 @@ sys.path.insert(0, os.path.abspath('../source'))
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinx_copybutton',
+    #'sphinx_copybutton',
     'sphinx.ext.autodoc'
 ]
 # Add any paths that contain templates here, relative to this directory.
@@ -55,7 +55,7 @@ month = today.month
 day = today.day
 
 # General information about the project.
-project = 'GATORcell Documentation'
+project = 'RMH Aerospace'
 copyright = f'{year}, RMH Aerospace'
 author = 'Rafael Heeb'
 
@@ -95,7 +95,7 @@ todo_include_todos = False
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'insegel'
+html_theme = 'furo'
 html_logo = '_static/GATOR_logo_v1.png'
 html_extra_path = ['../extra/']
 

@@ -1,7 +1,7 @@
 Welcome
 =======
 
-Welcome to the website of RMH Aerospace. This site is all about my research and other content that I find interesting.  
+Welcome to the website of RMH Aerospace
 
 .. note::
     This website is still in developement

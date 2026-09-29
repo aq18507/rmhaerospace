@@ -17,7 +17,7 @@ Welcome to the website of RMH Aerospace
    :hidden:
    :caption: Research:
 
-   publications/index
-   gatorcell/index
+   :publications/index
+   :gatorcell/index
 
 
